@@ -1,8 +1,8 @@
 !pip install openai
-!pip install gradio
+
 
 import openai
-import gradio
+
 
 openai.api_key = "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"
 
